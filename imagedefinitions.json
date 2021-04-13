@@ -1,0 +1,6 @@
+[
+  {
+    "name": "defaultContainer",
+    "imageUri": "your ecr repository arn for this coffeeshop/solid-humank-coffeeshop/orders-web:latest"
+  }
+]
